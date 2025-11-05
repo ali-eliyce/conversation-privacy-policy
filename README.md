@@ -5,9 +5,9 @@ Last updated: November 5, 2025
 
 This Privacy Policy describes how Conversation Matcher ("we", "us", "our") collects, uses, shares, and protects information in our mobile application (the "App"). By using the App, you agree to this Privacy Policy.
 
-If you do not agree, please do not use the App. If you have questions or requests, contact us at: [REPLACE_WITH_CONTACT_EMAIL]
+If you do not agree, please do not use the App. If you have questions or requests, contact us at: test@eliyce.com
 
-> Legal entity name and address: [REPLACE_WITH_COMPANY_LEGAL_NAME_AND_ADDRESS]
+> Legal entity name and address: Eliyce
 
 ---
 
@@ -150,8 +150,8 @@ We may update this Policy periodically. We will post the updated version in the 
 
 If you have questions, concerns, or requests regarding this Policy or your data, contact:
 
-- Email: [REPLACE_WITH_CONTACT_EMAIL]
-- Mailing address: [REPLACE_WITH_COMPANY_LEGAL_NAME_AND_ADDRESS]
+- Email: test@eliyce.com
+- Mailing address: test@eliyce.com
 
 ---
 
